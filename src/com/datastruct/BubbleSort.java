@@ -32,7 +32,7 @@ public class BubbleSort {
 		for (int j = 0; j < numbers.length; j++) 
 			System.out.print(numbers[j]+" ");
 			
-		System.out.println(loop);
+		System.out.println("loop : " + loop);
 		}
 	}
 
